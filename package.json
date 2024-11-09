@@ -1,6 +1,6 @@
 {
-    "name": "ui-cli",
-    "version": "0.1.0",
+    "name": "edwinui",
+    "version": "0.1.1",
     "description": "A CLI app to manage components",
     "main": "index.js",
     "scripts": {

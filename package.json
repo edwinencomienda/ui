@@ -1,0 +1,14 @@
+{
+    "name": "ui-cli",
+    "version": "0.1.0",
+    "description": "A CLI app to manage components",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Edwin Encomienda",
+    "license": "ISC",
+    "bin": {
+        "edwinui": "./index.js"
+    }
+}
